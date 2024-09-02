@@ -1,6 +1,6 @@
 # HEADER
 
-- Body margin 8px à enlever ?
+- Body margin 8px à enlever ? OK
 
 - box-sizing: boder-box/margin/padding: 0 non ? OK
 
@@ -18,6 +18,6 @@
 
 - Search à revoir OK
 
-* Filtres à revoir
+- Filtres à revoir OK
 
 - BACKGROUND COLOR SECTION POSE PROBLEME OK
